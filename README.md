@@ -1,4 +1,59 @@
-Dawar Dawood Khan<br><br>Full-Stack Developer | AI & Automation Developer<br><br>Hi, I'm Dawar Dawood Khan!<br><br>I'm a Computer Science student, software developer, and technology enthusiast passionate about building meaningful digital products and solving real-world problems through technology.<br><br>I enjoy working across different areas of software development, from designing user-friendly interfaces and developing backend systems to exploring artificial intelligence and intelligent automation.<br><br>My goal is to turn ideas into practical, reliable, and scalable solutions that make everyday tasks easier and improve the way people work.<br><br>I believe in continuous learning, experimenting with new technologies, and improving my skills through hands-on projects and real-world challenges.<br><br>🚀 What I Do<br><br>- Full-Stack Web Development<br>- AI-Powered Applications and Intelligent Agents<br>- LLM Applications and Retrieval-Augmented Generation (RAG)<br>- AI Workflow Automation and API Integrations<br>- Voice AI, ASR and TTS<br>- SaaS and Custom Software Development<br>- Cybersecurity and Secure Software Development<br><br>🛠️ Technologies & Tools<br><br>Languages: Python, JavaScript, TypeScript<br><br>Frontend: React.js, HTML5, CSS3<br><br>Backend: FastAPI, Laravel, Node.js, Express.js<br><br>AI & Automation: LLMs, RAG, AI Agents, Ollama, n8n<br><br>Databases: PostgreSQL, MySQL, SQLite<br><br>Tools & Infrastructure: Git, GitHub, Docker, Cloudflare<br><br>🌱 Currently Exploring<br><br>- Advanced AI applications and intelligent agents<br>- Scalable SaaS architecture<br>- AI-powered automation systems<br>- Cloud technologies and software infrastructure<br>- Secure and maintainable software development<br><br>🎯 My Approach<br><br>- Focus on solving real-world problems.<br>- Build clean, maintainable, and reliable software.<br>- Learn through practical projects and experimentation.<br>- Stay curious and explore emerging technologies.<br>- Create solutions that are useful and meaningful.<br><br>🤝 Connect With Me<br><br>💼 LinkedIn: <a href="https://www.linkedin.com/in/dawar-dawood-khan-4439a0354/">Dawar Dawood Khan</a><br>📍 Location: Peshawar, Pakistan<br><br>Building useful things with code and exploring what's possible with AI.
+<b>Dawar Dawood Khan</b><br>
+<b>Full-Stack Developer | AI & Automation Developer</b><br><br>
+
+<b>👨‍💻 About Me</b><br><br>
+
+Hi, I'm Dawar Dawood Khan!<br><br>
+
+I'm a Computer Science student, software developer, and technology enthusiast passionate about building meaningful digital products and solving real-world problems through technology.<br><br>
+
+I enjoy working across different areas of software development, from designing user-friendly interfaces and developing backend systems to exploring artificial intelligence and intelligent automation.<br><br>
+
+My goal is to turn ideas into practical, reliable, and scalable solutions that make everyday tasks easier and improve the way people work.<br><br>
+
+I believe in continuous learning, experimenting with new technologies, and improving my skills through hands-on projects and real-world challenges.<br><br>
+
+<b>🚀 What I Do</b><br><br>
+
+- Full-Stack Web Development<br>
+- AI-Powered Applications and Intelligent Agents<br>
+- LLM Applications and Retrieval-Augmented Generation (RAG)<br>
+- AI Workflow Automation and API Integrations<br>
+- Voice AI, ASR and TTS<br>
+- SaaS and Custom Software Development<br>
+- Cybersecurity and Secure Software Development<br><br>
+
+<b>🛠️ Technologies & Tools</b><br><br>
+
+<b>Programming Languages:</b> Python, JavaScript, TypeScript<br><br>
+<b>Frontend:</b> React.js, HTML5, CSS3<br><br>
+<b>Backend:</b> FastAPI, Laravel, Node.js, Express.js<br><br>
+<b>AI & Automation:</b> LLMs, RAG, AI Agents, Ollama, n8n<br><br>
+<b>Databases:</b> PostgreSQL, MySQL, SQLite<br><br>
+<b>Tools & Infrastructure:</b> Git, GitHub, Docker, Cloudflare<br><br>
+
+<b>🌱 Currently Exploring</b><br><br>
+
+- Advanced AI applications and intelligent agents<br>
+- Scalable SaaS architecture<br>
+- AI-powered automation systems<br>
+- Cloud technologies and software infrastructure<br>
+- Secure and maintainable software development<br><br>
+
+<b>🎯 My Approach</b><br><br>
+
+- Focus on solving real-world problems.<br>
+- Build clean, maintainable, and reliable software.<br>
+- Learn through practical projects and experimentation.<br>
+- Stay curious and explore emerging technologies.<br>
+- Create solutions that are useful and meaningful.<br><br>
+
+<b>🤝 Connect With Me</b><br><br>
+
+💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/dawar-dawood-khan-4439a0354/">Dawar Dawood Khan</a><br>
+📍 <b>Location:</b> Peshawar, Pakistan<br><br>
+
+<i>Building useful things with code and exploring what's possible with AI.</i>
 
 
 ## 🌐 Socials:
