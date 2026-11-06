@@ -1,59 +1,97 @@
-<b>Dawar Dawood Khan</b><br>
-<b>Full-Stack Developer | AI & Automation Developer</b><br><br>
+<div align="left">
 
-<b>👨‍💻 About Me</b><br><br>
+<h2>Dawar Dawood Khan</h2>
+<h3>Full-Stack Developer | AI & Automation Developer</h3>
 
-Hi, I'm Dawar Dawood Khan!<br><br>
+<hr>
 
-I'm a Computer Science student, software developer, and technology enthusiast passionate about building meaningful digital products and solving real-world problems through technology.<br><br>
+<h3>👨‍💻 About Me</h3>
 
-I enjoy working across different areas of software development, from designing user-friendly interfaces and developing backend systems to exploring artificial intelligence and intelligent automation.<br><br>
+<p>
+Hi, I'm Dawar Dawood Khan! I'm a Computer Science student, software developer, and technology enthusiast passionate about building meaningful digital products and solving real-world problems through technology.
+</p>
 
-My goal is to turn ideas into practical, reliable, and scalable solutions that make everyday tasks easier and improve the way people work.<br><br>
+<p>
+I enjoy working across different areas of software development, from designing user-friendly interfaces and developing backend systems to exploring artificial intelligence and intelligent automation.
+</p>
 
-I believe in continuous learning, experimenting with new technologies, and improving my skills through hands-on projects and real-world challenges.<br><br>
+<p>
+My goal is to turn ideas into practical, reliable, and scalable solutions that make everyday tasks easier and improve the way people work.
+</p>
 
-<b>🚀 What I Do</b><br><br>
+<p>
+I believe in continuous learning, experimenting with new technologies, and improving my skills through hands-on projects and real-world challenges.
+</p>
 
-- Full-Stack Web Development<br>
-- AI-Powered Applications and Intelligent Agents<br>
-- LLM Applications and Retrieval-Augmented Generation (RAG)<br>
-- AI Workflow Automation and API Integrations<br>
-- Voice AI, ASR and TTS<br>
-- SaaS and Custom Software Development<br>
-- Cybersecurity and Secure Software Development<br><br>
+<hr>
 
-<b>🛠️ Technologies & Tools</b><br><br>
+<h3>🚀 What I Do</h3>
 
-<b>Programming Languages:</b> Python, JavaScript, TypeScript<br><br>
-<b>Frontend:</b> React.js, HTML5, CSS3<br><br>
-<b>Backend:</b> FastAPI, Laravel, Node.js, Express.js<br><br>
-<b>AI & Automation:</b> LLMs, RAG, AI Agents, Ollama, n8n<br><br>
-<b>Databases:</b> PostgreSQL, MySQL, SQLite<br><br>
-<b>Tools & Infrastructure:</b> Git, GitHub, Docker, Cloudflare<br><br>
+<ul>
+<li>Full-Stack Web Development</li>
+<li>AI-Powered Applications and Intelligent Agents</li>
+<li>LLM Applications and Retrieval-Augmented Generation (RAG)</li>
+<li>AI Workflow Automation and API Integrations</li>
+<li>Voice AI, ASR and TTS</li>
+<li>SaaS and Custom Software Development</li>
+<li>Cybersecurity and Secure Software Development</li>
+</ul>
 
-<b>🌱 Currently Exploring</b><br><br>
+<hr>
 
-- Advanced AI applications and intelligent agents<br>
-- Scalable SaaS architecture<br>
-- AI-powered automation systems<br>
-- Cloud technologies and software infrastructure<br>
-- Secure and maintainable software development<br><br>
+<h3>🛠️ Technologies & Tools</h3>
 
-<b>🎯 My Approach</b><br><br>
+<ul>
+<li><b>Programming Languages:</b> Python, JavaScript, TypeScript</li>
+<li><b>Frontend:</b> React.js, HTML5, CSS3</li>
+<li><b>Backend:</b> FastAPI, Laravel, Node.js, Express.js</li>
+<li><b>AI & Automation:</b> LLMs, RAG, AI Agents, Ollama, n8n</li>
+<li><b>Databases:</b> PostgreSQL, MySQL, SQLite</li>
+<li><b>Tools & Infrastructure:</b> Git, GitHub, Docker, Cloudflare</li>
+</ul>
 
-- Focus on solving real-world problems.<br>
-- Build clean, maintainable, and reliable software.<br>
-- Learn through practical projects and experimentation.<br>
-- Stay curious and explore emerging technologies.<br>
-- Create solutions that are useful and meaningful.<br><br>
+<hr>
 
-<b>🤝 Connect With Me</b><br><br>
+<h3>🌱 Currently Exploring</h3>
 
-💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/dawar-dawood-khan-4439a0354/">Dawar Dawood Khan</a><br>
-📍 <b>Location:</b> Peshawar, Pakistan<br><br>
+<ul>
+<li>Advanced AI applications and intelligent agents</li>
+<li>Scalable SaaS architecture</li>
+<li>AI-powered automation systems</li>
+<li>Cloud technologies and software infrastructure</li>
+<li>Secure and maintainable software development</li>
+</ul>
 
+<hr>
+
+<h3>🎯 My Approach</h3>
+
+<ul>
+<li>Focus on solving real-world problems.</li>
+<li>Build clean, maintainable, and reliable software.</li>
+<li>Learn through practical projects and experimentation.</li>
+<li>Stay curious and explore emerging technologies.</li>
+<li>Create solutions that are useful and meaningful.</li>
+</ul>
+
+<hr>
+
+<h3>🤝 Connect With Me</h3>
+
+<p>
+💼 <b>LinkedIn:</b>
+<a href="https://www.linkedin.com/in/dawar-dawood-khan-4439a0354/">Dawar Dawood Khan</a>
+<br>
+📍 <b>Location:</b> Peshawar, Pakistan
+</p>
+
+<hr>
+
+<p align="center">
 <i>Building useful things with code and exploring what's possible with AI.</i>
+</p>
+
+</div>
 
 
 ## 🌐 Socials:
